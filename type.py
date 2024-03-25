@@ -1,6 +1,9 @@
 import time
 import pyautogui
 import os
+import subprocess
+
+os.system
 
 def type_text(text):
     # Simulate typing the text
