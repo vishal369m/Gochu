@@ -3,7 +3,7 @@ import pyautogui
 import os
 import subprocess
 
-os.system
+os.system("pip install pyautogui")
 
 def type_text(text):
     # Simulate typing the text
